@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686718779660",
+    "project_id": "android-firebase-auth-app",
+    "storage_bucket": "android-firebase-auth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686718779660:android:cabf851e474a815b1d4929",
+        "android_client_info": {
+          "package_name": "com.sayman.androidfirebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686718779660-arjp91sg5c7ot9to84t4pgarv7lv66hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayman.androidfirebaseauthapp",
+            "certificate_hash": "3394d95754d1c1b0227161772fe5b697fb7aa24e"
+          }
+        },
+        {
+          "client_id": "686718779660-6nl63s8qr5mqb616b05pndqd74u5cf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9kKZsYUI9cFmJE-CHIoR6sH5fM-WtVnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686718779660-6nl63s8qr5mqb616b05pndqd74u5cf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
